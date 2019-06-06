@@ -65,7 +65,7 @@ URxvt*saveLines:                  5000
 ! Transparency
 URxvt*inheritPixmap:            true
 URxvt*transparent:              true
-URxvt*shading:                  138
+URxvt*shading:                  30
 
 ! Copy Paste
 URxvt.iso14755:                   false
